@@ -46,7 +46,7 @@ setup(
     ],
     include_package_data=True,
     install_requires=[
-        'requests'
+        'tvdb_client==0.1.1'
     ],
     license="GNU General Public License v2 (GPLv2)",
     zip_safe=False,

@@ -2,4 +2,4 @@ Django>=1.4
 Sphinx
 sphinx_rtd_theme
 tox
-requests
+tvdb_client==0.1.1
