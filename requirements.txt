@@ -1,0 +1,5 @@
+Django>=1.4
+Sphinx
+sphinx_rtd_theme
+tox
+requests
