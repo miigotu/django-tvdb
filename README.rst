@@ -43,9 +43,6 @@ Installation
    ``'tvdb',``
 
 
-This app will soon require Django 1.8+, python 2.7+. Thanks for understanding.
-
-
 Documentation
 -------------
 
