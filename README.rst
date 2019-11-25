@@ -67,9 +67,7 @@ You can use this under Apache 2.0. See `LICENSE
 Author
 ------
 
-Developed and maintained by `Zostera <https://zostera.nl/>`_.
-
-Original author & Development lead: `Dylan Verheul <https://github.com/miigotu>`_.
+Developed and maintained by: `Dustyn Gibson <https://github.com/miigotu>`_.
 
 Thanks to everybody that has contributed pull requests, ideas, issues, comments and kind words.
 
